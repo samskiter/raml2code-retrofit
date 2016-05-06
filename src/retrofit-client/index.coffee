@@ -1,7 +1,7 @@
 #commonHelpers = require("../helpers/common").helpers()
-utilSchemas = require('raml2code-utils/lib/schemas')
+utilSchemas = require('raml2code-utils-samskiter/lib/schemas')
 pascalCase = require('pascal-case')
-parseResource = require('raml2code-utils/lib/parse-resource')
+parseResource = require('raml2code-utils-samskiter/lib/parse-resource')
 _ = require('lodash')
 
 generator = {}
